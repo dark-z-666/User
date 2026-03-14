@@ -1,14 +1,15 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=210&color=0:0f0f0f,50:8b0000,100:000000&text=Dark%20Z&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Student%20Developer%20%7C%20Python%20Automation%20%7C%20Web%20Projects&descAlignY=60&animation=fadeIn" alt="header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,45:8B0000,100:111111&text=Dark%20Z&fontSize=50&fontColor=ffffff&fontAlignY=37&desc=Student%20Developer%20%7C%20Python%20Automation%20%7C%20Web%20Projects&descAlignY=60&animation=fadeIn" alt="header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1200&color=FF3131&center=true&vCenter=true&width=900&lines=Building+bold+ideas+into+real+projects;Python+Automation+%7C+Web+Development+%7C+Creative+Tech;Clean+code.+Sharp+design.+Constant+improvement.;Always+learning.+Always+building." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=23&pause=1200&color=FF3B3B&center=true&vCenter=true&width=900&lines=Building+bold+ideas+into+real+projects;Python+Automation+%7C+Web+Development+%7C+Creative+Tech;Clean+code.+Strong+design.+Constant+growth.;Always+learning.+Always+building.+Always+improving." alt="Typing SVG" />
 
+<br/>
 <br/>
 
 <img src="https://komarev.com/ghpvc/?username=dark-z-666&style=for-the-badge&color=red" alt="profile views" />
-<img src="https://img.shields.io/github/followers/dark-z-666?style=for-the-badge&color=111111&labelColor=8b0000&logo=github&label=Followers" alt="followers" />
-<img src="https://img.shields.io/github/stars/dark-z-666?style=for-the-badge&color=111111&labelColor=8b0000&logo=github&label=Total%20Stars" alt="stars" />
+<img src="https://img.shields.io/github/followers/dark-z-666?style=for-the-badge&color=111111&labelColor=8B0000&logo=github&logoColor=white&label=Followers" alt="followers" />
+<img src="https://img.shields.io/github/stars/dark-z-666?style=for-the-badge&color=111111&labelColor=8B0000&logo=github&logoColor=white&label=Total%20Stars" alt="stars" />
 
 </div>
 
@@ -20,52 +21,51 @@
 name: Dark Z
 role: Student Developer
 location: Bangladesh
-focus:
+main_focus:
   - Python automation
   - Web development
   - Landing pages and dashboards
-  - Experimental tech projects
-mindset:
-  - Build useful things
-  - Keep improving
-  - Turn ideas into products
+  - Experimental utility projects
+work_style:
+  - Practical
+  - Design-aware
+  - Improvement-driven
+mission: Build useful projects that look sharp and work well
 ```
 
-I am a student developer who enjoys building **automation tools, web projects, landing pages, and creative technical experiments**.
-My goal is simple: **create projects that look sharp, work well, and keep getting better over time**.
+I build **automation tools, websites, landing pages, dashboards, and creative technical experiments**.
+I like turning ideas into polished projects that are both **useful** and **visually strong**.
 
 ---
 
 ## ⚒️ Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,html,css,js,java,cpp,bash,git,github,vscode,linux,windows" alt="tech stack" />
-
+  <img src="https://skillicons.dev/icons?i=python,html,css,js,java,cpp,bash,git,github,vscode,linux,windows" alt="tech stack" />
 </div>
 
-### Languages & Tools
+<br/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=ffd43b" alt="Python" />
-  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=e34f26" alt="HTML5" />
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=FFD43B" alt="Python" />
+  <img src="https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/C++-111111?style=for-the-badge&logo=c%2B%2B&logoColor=00599C" alt="C++" />
   <img src="https://img.shields.io/badge/Git-111111?style=for-the-badge&logo=git&logoColor=F05032" alt="Git" />
   <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</p>
+</div>
 
 ---
 
 ## 🚀 What I Build
 
-* ⚙️ Automation tools and utility-based projects
+* ⚙️ Automation tools and utility-based software
 * 🌐 Responsive websites, landing pages, and dashboards
-* 🐍 Python scripts for workflows and productivity
-* 🎨 Projects that combine functionality with a strong visual style
-* 🧪 Experimental builds that turn ideas into something real
+* 🐍 Python scripts for workflow and productivity
+* 🎨 Projects that combine function with a sharp visual identity
+* 🧪 Experimental builds that turn raw ideas into real products
 
 ---
 
@@ -95,7 +95,7 @@ My goal is simple: **create projects that look sharp, work well, and keep gettin
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=dark-z-666&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-z-666&layout=compact&theme=tokyonight&hide_border=true" alt="top langs" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dark-z-666&layout=compact&theme=tokyonight&hide_border=true" alt="top languages" />
 </div>
 
 <div align="center">
@@ -104,10 +104,10 @@ My goal is simple: **create projects that look sharp, work well, and keep gettin
 
 ---
 
-## 🏆 Achievements
+## 📈 Development Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=dark-z-666&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&row=1&column=6" alt="trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=dark-z-666&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
 </div>
 
 ---
@@ -124,14 +124,12 @@ My goal is simple: **create projects that look sharp, work well, and keep gettin
 ## 🌐 Connect
 
 <div align="center">
-
-<a href="https://github.com/dark-z-666">
-  <img src="https://img.shields.io/badge/GitHub-dark--z--666-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<a href="mailto:dragonbhai66@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-8b0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
-
+  <a href="https://github.com/dark-z-666">
+    <img src="https://img.shields.io/badge/GitHub-dark--z--666-111111?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:dragonbhai66@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-8B0000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </div>
 
 ---
@@ -139,7 +137,7 @@ My goal is simple: **create projects that look sharp, work well, and keep gettin
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/dark-z-666/dark-z-666/output/snake.svg" alt="snake animation" />
+  <img src="https://raw.githubusercontent.com/dark-z-666/dark-z-666/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
 </div>
 
 ---
@@ -152,9 +150,18 @@ My goal is simple: **create projects that look sharp, work well, and keep gettin
 
 ---
 
-## ⚠️ Important Setup Notes
+## ⚠️ Important Fix
 
-* Create a **public repository named exactly `dark-z-666`**.
-* Put this content in that repository's **`README.md`**.
-* The **snake animation will only work after you add a GitHub Action** that generates `output/snake.svg`.
-* If one of the stat cards fails temporarily, it is usually because the external stats service is rate-limited.
+For the snake animation to work, the README must be inside your **profile repository** named exactly:
+
+```bash
+dark-z-666
+```
+
+and you must add a GitHub Actions workflow that generates the snake SVG inside:
+
+```bash
+output/github-contribution-grid-snake-dark.svg
+```
+
+The trophy widget has been replaced with a more professional **activity graph** because trophy services are often unstable and fail to load in GitHub previews.
