@@ -17,7 +17,7 @@
 
 ## ⚡ About Me
 
-```yaml
+```
 name: Dark Z
 role: Student Developer
 location: Bangladesh
